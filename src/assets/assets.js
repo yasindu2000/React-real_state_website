@@ -18,7 +18,10 @@ import project_img_4 from './project_img_4.jpg'
 import project_img_5 from './project_img_5.jpg'
 import project_img_6 from './project_img_6.jpg'
 
-
+import project_img_7 from './project_img_7.png'
+import project_img_8 from './project_img_8.png'
+import project_img_9 from './project_img_9.png'
+import project_img_10 from './project_img_10.png'
 
 
 import profile_img_1 from './profile_img_1.png'
@@ -41,7 +44,10 @@ export const assets = {
     project_img_2,
     project_img_3,
     project_img_4,
-    
+    project_img_7,
+    project_img_8,
+    project_img_9,
+    project_img_10,
     left_arrow,
     right_arrow,
 }
@@ -51,25 +57,25 @@ export const projectsData = [
       title: "Skyline Haven",
       price: "$2,50,000",
       location: "California",
-      image: project_img_1
+      image: project_img_7
     },
     {
       title: "Vista Verde",
       price: "$2,50,000",
       location: "San Francisco",
-      image: project_img_2
+      image: project_img_8
     },
     {
       title: "Serenity Suites",
       price: "$2,50,000",
       location: "Chicago",
-      image: project_img_3
+      image: project_img_9
     },
     {
       title: "Central Square",
       price: "$2,50,000",
       location: "Los Angeles",
-      image: project_img_4
+      image: project_img_10
     },
     {
       title: "Vista Verde",
